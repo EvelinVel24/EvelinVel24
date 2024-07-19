@@ -9,3 +9,6 @@
 📫 Contáctame: Si tienes algún consejo, recurso o simplemente quieres conectar, ¡no dudes en enviarme un mensaje!
 
 🌟 Motivación: Aunque soy nueva en este campo, estoy llena de entusiasmo y determinación. Estoy lista para enfrentar desafíos y seguir mejorando cada día.
+
+Muchas gracias!!
+
