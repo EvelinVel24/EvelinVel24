@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Evelin Véliz de.
+👋 ¡Hola! Soy Evelin Véliz de chile.
 
 🌱 Soy desarrolladora frontend. Actualmente, me estoy sumergiendo en HTML, CSS , JavaScript , React , Angular y siempre estoy ansiosa por aprender nuevas tecnologías.
 
