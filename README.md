@@ -5,3 +5,6 @@ c👋 ¡Hola! Soy Evelin Véliz.
 Objetivo: Busco oportunidades para seguir aprendiendo y creciendo como desarrolladora, con el sueño de contribuir a proyectos significativos y colaborar con otros desarrolladores apasionados.
 
 📫 Contáctame: Si tienes algún consejo, recurso o simplemente quieres conectar, ¡no dudes en enviarme un mensaje!
+
+
+🌟 Motivación: Aunque soy nueva en este campo, estoy llena de entusiasmo y determinación. Estoy lista para enfrentar desafíos y seguir mejorando cada día.
