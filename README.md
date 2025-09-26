@@ -1,4 +1,4 @@
-c👋 ¡Hola! Soy Evelin Véliz.
+👋 ¡Hola! Soy Evelin Véliz.
 
 🌱 Soy desarrolladora frontend. Actualmente, me estoy sumergiendo en HTML, CSS , JavaScript , React , Angular y siempre estoy ansiosa por aprender nuevas tecnologías.
 
@@ -6,8 +6,6 @@ Objetivo: Busco oportunidades para seguir aprendiendo y creciendo como desarroll
 
 📫 Contáctame: Si tienes algún consejo, recurso o simplemente quieres conectar, ¡no dudes en enviarme un mensaje!
 
-
 🌟 Motivación: Aunque soy nueva en este campo, estoy llena de entusiasmo y determinación. Estoy lista para enfrentar desafíos y seguir mejorando cada día.
-
 
 Muchas Gracias !!!
